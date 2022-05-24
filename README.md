@@ -108,8 +108,6 @@ npm i sweetalert2
 .enableReactPreset()
 ```
 
-## 12.5 symfonyReact continued...
-
 - running webpack
 
 ```
